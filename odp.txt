@@ -1,0 +1,21 @@
+5.1 ----------------------------------------------
+a)
+Wartosc w 2017: 43610.000000  amor.Czasu: 40050.000000  amor.Przebiegu: 5340.000000
+b)
+DAF LF45 ERA 132 TR 17390
+
+5.2 ----------------------------------------------
+a) i b) ... i 5.3
+DAF - Ilosc: 30  Sr. Przebieg: 273240  od 2006 do 2015: 30
+Iveco - Ilosc: 12  Sr. Przebieg: 680205  od 2006 do 2015: 12
+MAN - Ilosc: 18  Sr. Przebieg: 327426  od 2006 do 2015: 18
+Mercedes - Ilosc: 17  Sr. Przebieg: 505806  od 2006 do 2015: 17
+Renault - Ilosc: 17  Sr. Przebieg: 549689  od 2006 do 2015: 17
+Scania - Ilosc: 17  Sr. Przebieg: 589452  od 2006 do 2015: 17
+Volvo - Ilosc: 23  Sr. Przebieg: 332759  od 2006 do 2015: 23
+
+5.4 ----------------------------------------------
+Mercedes Atego ERA 112 TR  Dni: 722
+Iveco TrakkerEuro5 ERA 214 TR  Dni: 708
+Iveco Strails ERA 213 TR  Dni: 708
+Iveco Strails ERA 212 TR  Dni: 708
