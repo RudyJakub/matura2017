@@ -1,0 +1,1 @@
+g++ zad5.cc && ./a.out $$ rm -rf a.out
